@@ -1,5 +1,5 @@
 # 🗺️ Aspiring Data Analyst | Passionate About Data-Driven Insights  
-Hi, I’m **Shailesh**! I thrive on exploring and analyzing data to uncover actionable insights and create impactful visualizations. I'm proficient in Python 🐍, SQL 📂, Power BI 🪶, and Machine Learning 🤖.  
+Hi, I’m **Shailesh**! I thrive on exploring and analyzing data to uncover actionable insights and create impactful visualizations. I'm proficient in Python 🐍, SQL 📂, Power BI , and Machine Learning 🤖.  
 
 ---
 
