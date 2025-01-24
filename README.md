@@ -1,5 +1,5 @@
 # 🌐 Aspiring Data Analyst | Passionate About Data-Driven Insights  
-Hi there! 👋 I'm Shailesh Kumar Singh, an aspiring Data Analyst with a passion for uncovering insights and transforming raw data into impactful stories. Here's a little glimpse into my world of data, learning, and growth! 🌟
+Hi there! 👋 I'm #Shailesh Kumar Singh# , an aspiring #Data Analyst# with a passion for uncovering insights and transforming raw data into impactful stories. Here's a little glimpse into my world of data, learning, and growth! 🌟
 
 ---
 
