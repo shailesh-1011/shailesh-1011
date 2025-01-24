@@ -1,5 +1,5 @@
-# 🗺️ Aspiring Data Analyst | Passionate About Data-Driven Insights  
-🗺️Data Analyst proficient in Python🐍, SQL, Power BI🪶, and Machine Learning🤖. Skilled in data cleaning,🗺 analysis, visualization🌿, and predictive modeling💡. Collaborates with teams to transform data🪻 into actionable insights🍂 for strategic decision-making❄️ and operational efficiency🥀 
+# 🌐 Aspiring Data Analyst | Passionate About Data-Driven Insights  
+Hi there! 👋 I'm Md Shah Alam, an aspiring Data Analyst with a passion for uncovering insights and transforming raw data into impactful stories. Here's a little glimpse into my world of data, learning, and growth! 🌟
 
 ---
 
