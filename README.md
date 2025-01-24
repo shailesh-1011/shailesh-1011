@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🗺️ Aspiring Data Analyst | Passionate About Data-Driven Insights  
+Hi, I’m **Shailesh**! I thrive on exploring and analyzing data to uncover actionable insights and create impactful visualizations. I'm proficient in Python🐍, SQL📂, Power BI🪶, and Machine Learning🤖.  
 
-<!--
-**shailesh-1011/shailesh-1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack  
+Here are the tools and technologies I work with:  
 
-Here are some ideas to get you started:
+🔧 **Programming Languages:**  
+- Python  
+- SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Data Analysis & Visualization:**  
+- Pandas, Matplotlib, Seaborn  
+- Scikit-learn  
+
+🧹 **Data Wrangling & ETL:**  
+- Excel, Power BI  
+
+☁️ **Cloud & Version Control:**  
+- AWS, GitHub  
+
+📂 **Databases:**  
+- MySQL  
+
+🛠 **Development Tools:**  
+- Jupyter, Google Colab, VS Code  
+
+## 🌱 Let’s Connect!  
+Feel free to reach out or collaborate with me:  
+- [GitHub](https://github.com/shailesh-1011)  
+- [LinkedIn](https://www.linkedin.com/in/shaileshkumarsingh1/)  
+- [Twitter](#)  
+
+🔥 Check out my **GitHub Stats** below!  
