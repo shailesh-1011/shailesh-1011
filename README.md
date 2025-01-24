@@ -60,8 +60,36 @@ Feel free to reach out or collaborate with me:
   </a>
 </div>
 
+## 🌱 Let’s Connect!  
+Feel free to reach out or collaborate with me:  
+<div>
+  <a href="https://github.com/shailesh-1011">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shaileshkumarsingh1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shaileshed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
 🔥 Check out my **GitHub Stats** below!  
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=shailesh-1011&show_icons=true&theme=radical" alt="Shailesh's GitHub Stats"/>
 </div>
+
+### 📊 GitHub Activity  
+![Shailesh's Contributions](https://github-readme-stats.vercel.app/api?username=shailesh-1011&show_icons=true&theme=radical&hide_border=true)
+
+### 🔥 GitHub Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=shailesh-1011&theme=radical&hide_border=true)
+
+### 🧑‍💻 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-1011&layout=compact&theme=radical&hide_border=true)
+
+### 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=shailesh-1011&theme=radical&no-frame=t
