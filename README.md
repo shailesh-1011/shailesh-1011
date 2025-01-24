@@ -6,13 +6,13 @@ Hi, I’m **Shailesh**! I thrive on exploring and analyzing data to uncover acti
 ## 💻 Tech Stack  
 
 ### 🔧 Programming Languages  
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
 </div>
 
 ### 📊 Data Analysis & Visualization  
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
@@ -20,24 +20,24 @@ Hi, I’m **Shailesh**! I thrive on exploring and analyzing data to uncover acti
 </div>
 
 ### 🧹 Data Wrangling & ETL  
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
 </div>
 
 ### ☁️ Cloud & Version Control  
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
 ### 📂 Databases  
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
 ### 🛠 Development Tools  
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -45,17 +45,10 @@ Hi, I’m **Shailesh**! I thrive on exploring and analyzing data to uncover acti
 
 ---
 
-## 📈 Featured Projects  
-Check out some of my key projects:  
-- **Solar Power Plant Analysis:** Extracted and visualized key KPIs from energy generation and weather sensor data, deploying results using Streamlit.  
-- **Customer Segmentation Using Machine Learning:** Grouped customers based on behavior patterns, using K-Means and hierarchical clustering, and presented insights with Power BI dashboards.  
-- **Stock Price Prediction:** Built and trained a machine learning model to predict stock prices using historical data.  
-
----
 
 ## 🌱 Let’s Connect!  
 Feel free to reach out or collaborate with me:  
-<div align="center">
+<div>
   <a href="https://github.com/shailesh-1011">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -69,6 +62,6 @@ Feel free to reach out or collaborate with me:
 
 🔥 Check out my **GitHub Stats** below!  
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=shailesh-1011&show_icons=true&theme=radical" alt="Shailesh's GitHub Stats"/>
 </div>
