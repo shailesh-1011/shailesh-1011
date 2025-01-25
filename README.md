@@ -61,13 +61,7 @@ Feel free to reach out or collaborate with me:
 </div>
 
 
----
-
-🔥 Check out my **GitHub Stats** below!  
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=shailesh-1011&show_icons=true&theme=radical" alt="Shailesh's GitHub Stats"/>
-</div>
+--- 
 
 ### 📊 GitHub Activity  
 ![Shailesh's Contributions](https://github-readme-stats.vercel.app/api?username=shailesh-1011&show_icons=true&theme=radical&hide_border=true)
