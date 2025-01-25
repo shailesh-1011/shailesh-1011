@@ -22,7 +22,7 @@ I thrive on **problem-solving** 🧩, **teamwork** 🤝, and **adaptability** �
 
 ---
 
-## 🛠️ My Tech Arsenal  
+## 🛠️ Tech I have worked on 
 💻 **Languages & Tools:**  
 Python 🐍, SQL 💾, R 📊  
 
