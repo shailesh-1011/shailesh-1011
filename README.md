@@ -3,9 +3,9 @@ Hi there! 👋 I'm Shailesh Kumar Singh , an aspiring Data Analyst with a passio
 
 ---
 ## 🌱 Current Endeavors  
-🎓 **Pursuing Data Analytics** at **Masai School** (Sep 2024 - Feb 2025) 🎒  
-🎓 **Recent graduate** of **LNCT University**, where I earned a **BBA in Business Analytics** (Aug 2021 - Jun 2024) 🎓  
-🔍 Working on exciting projects involving **Crime Data Analysis** and **CRM Sales Dashboards**. 🕵️‍♂️ 
+🎓 **Pursuing Data Analytics** at **Masai School** (Jun 2024 - Current)  
+🎓 **Recent graduate** of **Osmania University**, where I earned a **Bachelor of Commerce, General** (Aug 2021 - Jun 2024) 🎓  
+🔍 Working on exciting projects involving **Netflix Data** and its related **Api**. 🕵️‍♂️ 
 
 ---
 
@@ -24,10 +24,10 @@ I thrive on **problem-solving** 🧩, **teamwork** 🤝, and **adaptability** �
 
 ## 🛠️ Tech I have worked on 
 💻 **Languages & Tools:**  
-Python 🐍, SQL 💾, R 📊  
+Python 🐍, SQL 💾
 
 📊 **Data Techniques:**  
-Data Analysis & Visualization 📈, Machine Learning 🤖, Data Structures, Web Scraping 🌐  
+Data Analysis & Visualization 📈, Data Structures
 
 📈 **Visualization Tools:**  
 Power BI 📊, Matplotlib 📉, Seaborn 🎨  
@@ -35,7 +35,7 @@ Power BI 📊, Matplotlib 📉, Seaborn 🎨
 🛠️ **Other Skills:**  
 Numpy 🧮, Pandas 🐼  
 
-I enjoy building **dashboards**, creating **predictive models**, and experimenting with **AI** to derive actionable insights. 🤖  
+I enjoy building **dashboards**, creating **predictive models**, and experimenting with **API** to derive actionable insights. 🤖  
 
 ---
 
@@ -87,7 +87,6 @@ Feel free to reach out or collaborate with me:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-
 
 --- 
 
