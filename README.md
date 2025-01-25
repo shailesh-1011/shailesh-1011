@@ -2,14 +2,42 @@
 Hi there! 👋 I'm Shailesh Kumar Singh , an aspiring Data Analyst with a passion for uncovering insights and transforming raw data into impactful stories. Here's a little glimpse into my world of data, learning, and growth! 🌟
 
 ---
+## 🌱 Current Endeavors  
+🎓 **Pursuing Data Analytics** at **Masai School** (Sep 2024 - Feb 2025) 🎒  
+🎓 **Recent graduate** of **LNCT University**, where I earned a **BBA in Business Analytics** (Aug 2021 - Jun 2024) 🎓  
+🔍 Working on exciting projects involving **Crime Data Analysis** and **CRM Sales Dashboards**. 🕵️‍♂️ 
 
-## 💻 Tech Stack  
+---
+
+## 🧠 My Mindset  
+I thrive on **problem-solving** 🧩, **teamwork** 🤝, and **adaptability** 🌀. Whether it’s a complex dataset or a challenging project, I approach it with curiosity and determination to deliver results. 💡 
+
+---
 
 ### 🔧 Programming Languages  
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
 </div>
+
+---
+
+## 🛠️ My Tech Arsenal  
+💻 **Languages & Tools:**  
+Python 🐍, SQL 💾, R 📊  
+
+📊 **Data Techniques:**  
+Data Analysis & Visualization 📈, Machine Learning 🤖, Data Structures, Web Scraping 🌐  
+
+📈 **Visualization Tools:**  
+Power BI 📊, Matplotlib 📉, Seaborn 🎨  
+
+🛠️ **Other Skills:**  
+Numpy 🧮, Pandas 🐼  
+
+I enjoy building **dashboards**, creating **predictive models**, and experimenting with **AI** to derive actionable insights. 🤖  
+
+---
 
 ### 📊 Data Analysis & Visualization  
 <div>
