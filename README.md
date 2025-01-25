@@ -14,7 +14,7 @@ I thrive on **problem-solving** 🧩, **teamwork** 🤝, and **adaptability** �
 
 ---
 
-### 🔧 Programming Languages  
+### 🔧 Programming Languages I know
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
